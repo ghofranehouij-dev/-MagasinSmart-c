@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1777474524 source:c:\users\houij\onedrive\dokumenter\bureau\nouveau dossier\n\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
